@@ -55,3 +55,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 - **LinkedIn:** [Alif Sathar]([your-linkedin-profile-link](https://www.linkedin.com/in/alif-sathar-06047628a/))
 
 Thank you for visiting our project. We hope this repository helps you in understanding and developing human activity recognition systems using MATLAB.
+
+## License
+
+This project is **not open-source** and is protected under a **custom all-rights-reserved license**.  
+Unauthorized use, copying, or distribution is strictly prohibited. See [LICENSE.txt](LICENSE.txt) for details.
+
