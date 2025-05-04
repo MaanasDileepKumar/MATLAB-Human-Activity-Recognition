@@ -51,8 +51,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 
 ## Contact
 
-- **Email:** as3264@student.aru.ac.uk
-- **LinkedIn:** [Alif Sathar]([your-linkedin-profile-link](https://www.linkedin.com/in/alif-sathar-06047628a/))
+- **Email:** mdk130@student.aru.ac.uk
+- **LinkedIn:** [Maanas Dileep Kumar([your-linkedin-profile-link](www.linkedin.com/in/maanas-dileep-kumar-33ba68261))
 
 Thank you for visiting our project. We hope this repository helps you in understanding and developing human activity recognition systems using MATLAB.
 
